@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T03:23:42.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="EBuhZ7CAuunoof9FeIPG" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T03:39:12.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Yij0VR_e_UvWWZ4FuV9V" version="20.5.3" type="github">
   <diagram id="sZFwyEUWAO2D6XH-p3_N" name="Page-1">
     <mxGraphModel dx="1718" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -144,10 +144,10 @@
           <mxGeometry x="-180" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f9CItXOnI6Ktt8JLqTk6-78" value="Send Chat Message" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="830" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="795" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f9CItXOnI6Ktt8JLqTk6-80" value="Receive Chat Message" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="795" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f9CItXOnI6Ktt8JLqTk6-92" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f9CItXOnI6Ktt8JLqTk6-83" target="f9CItXOnI6Ktt8JLqTk6-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -155,7 +155,7 @@
         <mxCell id="f9CItXOnI6Ktt8JLqTk6-83" value="Reset State to Initial State" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f9CItXOnI6Ktt8JLqTk6-86" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.408;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="f9CItXOnI6Ktt8JLqTk6-28" target="f9CItXOnI6Ktt8JLqTk6-80" edge="1">
+        <mxCell id="f9CItXOnI6Ktt8JLqTk6-86" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="f9CItXOnI6Ktt8JLqTk6-28" target="f9CItXOnI6Ktt8JLqTk6-80" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="740" as="sourcePoint" />
             <mxPoint x="690" y="790" as="targetPoint" />
@@ -272,6 +272,61 @@
         </mxCell>
         <mxCell id="CsAItCtSTbnviNH9AOJt-43" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="815" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CsAItCtSTbnviNH9AOJt-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CsAItCtSTbnviNH9AOJt-58" target="f9CItXOnI6Ktt8JLqTk6-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-430" y="1240" as="sourcePoint" />
+            <mxPoint x="170" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-500" y="1240" />
+              <mxPoint x="-500" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsAItCtSTbnviNH9AOJt-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsAItCtSTbnviNH9AOJt-44" target="CsAItCtSTbnviNH9AOJt-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CsAItCtSTbnviNH9AOJt-44" value="Student is Disconnected from Meeting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsAItCtSTbnviNH9AOJt-48" value="Zoom Event Listeners" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="1060" width="1520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsAItCtSTbnviNH9AOJt-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-180" y="1120" as="sourcePoint" />
+            <mxPoint x="-180" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsAItCtSTbnviNH9AOJt-50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-17" y="1120" as="sourcePoint" />
+            <mxPoint x="-17" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsAItCtSTbnviNH9AOJt-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsAItCtSTbnviNH9AOJt-51" target="CsAItCtSTbnviNH9AOJt-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CsAItCtSTbnviNH9AOJt-51" value="Teacher is disconnected from Meeting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsAItCtSTbnviNH9AOJt-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsAItCtSTbnviNH9AOJt-52" target="CsAItCtSTbnviNH9AOJt-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CsAItCtSTbnviNH9AOJt-52" value="Student is Ejected from Meeting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsAItCtSTbnviNH9AOJt-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsAItCtSTbnviNH9AOJt-53" target="CsAItCtSTbnviNH9AOJt-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CsAItCtSTbnviNH9AOJt-53" value="Reset State to Initial State" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsAItCtSTbnviNH9AOJt-54" value="END" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsAItCtSTbnviNH9AOJt-58" value="Reset State to Initial State" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
