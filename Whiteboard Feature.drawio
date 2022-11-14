@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T08:39:50.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="AXzU0rBOjzHPBzw1_2H7" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T08:45:44.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ZU4QOMkmA3oCgsVVQzym" version="20.5.3" type="github">
   <diagram id="ocJ2UDWapJ8wmOQib-gG" name="Page-1">
     <mxGraphModel dx="1718" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -288,6 +288,32 @@
         </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--112" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1380" y="945" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--141" target="Q4WmJUnaW-gMQN3SoK_--142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Q4WmJUnaW-gMQN3SoK_--141">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1920" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--141" value="User presses Shift Key" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="430" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--142" target="Q4WmJUnaW-gMQN3SoK_--144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--142" target="Q4WmJUnaW-gMQN3SoK_--146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--142" value="Tooltips for Whiteboard Controls Keyboard Shortcuts become visible" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--144" value="User can press Esc key to hide the Keyboard Shortcuts tooltips" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="735" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--146" value="User can press successive keys indicated by tooltips to access whiteboard functionality faster" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="735" width="160" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
