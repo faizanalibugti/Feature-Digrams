@@ -1,1 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T10:03:01.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="9UwrlGo6Q0MmwVfGmmz7" type="github"><diagram id="52pnmSL316fqSWyX0XPY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-14T10:16:40.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4oLLhbFaYa0k4VIUU-o_" version="20.5.3" type="github">
+  <diagram id="52pnmSL316fqSWyX0XPY" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-1" target="En0KIxkIHf2FKO_3v-h6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-4" target="En0KIxkIHf2FKO_3v-h6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-4" target="En0KIxkIHf2FKO_3v-h6-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-4" value="User navigates to /playground" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-6" target="En0KIxkIHf2FKO_3v-h6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-6" value="User Clicks on Back Button" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-8" target="En0KIxkIHf2FKO_3v-h6-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-8" value="User is redirected to /lessons page" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-10" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-12" target="En0KIxkIHf2FKO_3v-h6-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-12" target="En0KIxkIHf2FKO_3v-h6-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-12" target="En0KIxkIHf2FKO_3v-h6-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="470" />
+              <mxPoint x="830" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-12" value="User Clicks on Question Panel" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-14" target="En0KIxkIHf2FKO_3v-h6-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-14" value="User selects a Question" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="En0KIxkIHf2FKO_3v-h6-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="427.5" y="700" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-22" value="The selected question is rendered in Question Section" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-24" target="En0KIxkIHf2FKO_3v-h6-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-24" value="User deletes a Question" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-26" target="En0KIxkIHf2FKO_3v-h6-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-26" target="En0KIxkIHf2FKO_3v-h6-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-26" value="Is the deleted question the active question?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="640" width="105" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-28" value="The active question remains unchanges" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-30" value="The next question becomes the active question&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-32" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="685" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-33" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="785" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-34" target="En0KIxkIHf2FKO_3v-h6-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-34" value="User Clicks on the backdrop" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-37" value="The question panel collapses" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
