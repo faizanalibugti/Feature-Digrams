@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T08:45:44.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ZU4QOMkmA3oCgsVVQzym" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T08:51:51.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="UrpudOgnABX-rq7U1suU" version="20.5.3" type="github">
   <diagram id="ocJ2UDWapJ8wmOQib-gG" name="Page-1">
-    <mxGraphModel dx="1718" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1718" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,6 +229,9 @@
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--82" target="Q4WmJUnaW-gMQN3SoK_--92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--82" target="Q4WmJUnaW-gMQN3SoK_--150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--82" value="Is Graph Plotter visible" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1370" y="570" width="80" height="80" as="geometry" />
         </mxCell>
@@ -314,6 +317,12 @@
         </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--146" value="User can press successive keys indicated by tooltips to access whiteboard functionality faster" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2480" y="735" width="160" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--150" value="Toggle the Graph Plotter on" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--152" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="585" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
