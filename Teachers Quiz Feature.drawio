@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T10:30:35.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="-MNBIazztCq-QZZnVd-6" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T10:36:06.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="40hrxM3gLnrbhHHA8ZWe" version="20.5.3" type="github">
   <diagram id="52pnmSL316fqSWyX0XPY" name="Page-1">
     <mxGraphModel dx="1718" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,6 +34,14 @@
             <Array as="points">
               <mxPoint x="380" y="320" />
               <mxPoint x="1230" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-4" target="En0KIxkIHf2FKO_3v-h6-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="320" />
+              <mxPoint x="-250" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -190,6 +198,33 @@
         </mxCell>
         <mxCell id="En0KIxkIHf2FKO_3v-h6-62" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1270" y="505" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-63" target="En0KIxkIHf2FKO_3v-h6-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-63" value="User selects text in a paragraph in the Question Section" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-65" target="En0KIxkIHf2FKO_3v-h6-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-65" target="En0KIxkIHf2FKO_3v-h6-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-65" value="Is text highlighted?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-295" y="490" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-67" value="Display context menu for user to highlight the text in a colour of their choosing" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-70" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="600" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-71" value="Display context menu for user to remove highlighting&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-73" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="505" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
