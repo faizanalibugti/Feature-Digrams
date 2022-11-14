@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T10:20:29.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="CP07qjvstYAZkdYxVDqZ" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T10:30:35.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="-MNBIazztCq-QZZnVd-6" version="20.5.3" type="github">
   <diagram id="52pnmSL316fqSWyX0XPY" name="Page-1">
     <mxGraphModel dx="1718" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,7 +25,15 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="320" />
-              <mxPoint x="740" y="320" />
+              <mxPoint x="850" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-4" target="En0KIxkIHf2FKO_3v-h6-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="320" />
+              <mxPoint x="1230" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -119,8 +127,69 @@
         <mxCell id="En0KIxkIHf2FKO_3v-h6-37" value="The question panel collapses" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="650" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-39" target="En0KIxkIHf2FKO_3v-h6-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="470" />
+              <mxPoint x="710" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-39" target="En0KIxkIHf2FKO_3v-h6-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-39" target="En0KIxkIHf2FKO_3v-h6-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="470" />
+              <mxPoint x="980" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="En0KIxkIHf2FKO_3v-h6-39" value="User clicks on Answer Panel" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-43" value="User can select an answer from available options" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-45" target="En0KIxkIHf2FKO_3v-h6-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-45" value="User clicks on Next" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-47" value="User clicks on Previous" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-49" value="The question is marked as attempted in the question panel" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-51" target="En0KIxkIHf2FKO_3v-h6-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-51" value="User clicks on Toggle Whiteboard" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-55" target="En0KIxkIHf2FKO_3v-h6-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En0KIxkIHf2FKO_3v-h6-55" target="En0KIxkIHf2FKO_3v-h6-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-55" value="Is the whiteboard visible?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-57" value="Toggle the whiteboard off increasing Question Section width to 100%" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-59" value="Toggle the whiteboard on which takes up a width of 50%" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-61" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="585" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="En0KIxkIHf2FKO_3v-h6-62" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="505" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
