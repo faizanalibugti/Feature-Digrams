@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T08:17:43.063Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1rc8ttIyWmNlUXZO3n61" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T08:38:22.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="69qU6mN0l-jY4DN0eHAc" version="20.5.3" type="github">
   <diagram id="ocJ2UDWapJ8wmOQib-gG" name="Page-1">
     <mxGraphModel dx="1718" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,6 +10,11 @@
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="60" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--2" target="Q4WmJUnaW-gMQN3SoK_--19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425.5" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--2" value="User navigates to&amp;nbsp;/lessons/[:lessonId]/whiteboard" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="313" y="200" width="225" height="100" as="geometry" />
         </mxCell>
@@ -19,11 +24,21 @@
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--16" target="Q4WmJUnaW-gMQN3SoK_--26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Q4WmJUnaW-gMQN3SoK_--16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-270" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--16" value="Pen Tool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-330" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--17" target="Q4WmJUnaW-gMQN3SoK_--32">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Q4WmJUnaW-gMQN3SoK_--17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="350" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--17" value="Select Tool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="430" width="120" height="60" as="geometry" />
@@ -33,6 +48,11 @@
         </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--18" target="Q4WmJUnaW-gMQN3SoK_--30">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Q4WmJUnaW-gMQN3SoK_--18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="350" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--18" value="Eraser Tool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="430" width="120" height="60" as="geometry" />
@@ -46,26 +66,46 @@
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--20" target="Q4WmJUnaW-gMQN3SoK_--36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Q4WmJUnaW-gMQN3SoK_--20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-270" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--20" value="Image Capture" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--21" target="Q4WmJUnaW-gMQN3SoK_--38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Q4WmJUnaW-gMQN3SoK_--21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--21" value="Add Textbox" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--22" target="Q4WmJUnaW-gMQN3SoK_--82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Q4WmJUnaW-gMQN3SoK_--22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1410" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--22" value="Graph Plotter Tool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="1350" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--23" target="Q4WmJUnaW-gMQN3SoK_--64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Q4WmJUnaW-gMQN3SoK_--23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--23" value="File Upload" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="1870" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--24" value="Select Colour" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="570" width="120" height="60" as="geometry" />
@@ -186,26 +226,68 @@
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--82" target="Q4WmJUnaW-gMQN3SoK_--84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--82" target="Q4WmJUnaW-gMQN3SoK_--92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--82" value="Is Graph Plotter visible" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1370" y="570" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Q4WmJUnaW-gMQN3SoK_--87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--84" target="Q4WmJUnaW-gMQN3SoK_--86">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Q4WmJUnaW-gMQN3SoK_--91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--84" target="Q4WmJUnaW-gMQN3SoK_--90">
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--84" target="Q4WmJUnaW-gMQN3SoK_--95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--84" value="User enters an equation in the textbox&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1260" y="750" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--86" target="Q4WmJUnaW-gMQN3SoK_--97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--86" value="The corresponding curve is plotted on the graph" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="1430" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--88" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1370" y="650" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--86" target="Q4WmJUnaW-gMQN3SoK_--90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q4WmJUnaW-gMQN3SoK_--90" value="User can toggle the visibility of plotted curve" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="1610" y="1005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--92" value="User can clear all plotted curves" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--95" target="Q4WmJUnaW-gMQN3SoK_--100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--95" target="Q4WmJUnaW-gMQN3SoK_--86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--95" value="Is coefficient present in the equation?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="925" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--97" value="User cannot animate the graph or modify coefficient" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--100" target="Q4WmJUnaW-gMQN3SoK_--101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--100" value="The corresponding curve is plotted on the graph" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--101" value="User can toggle the visibility of plotted curve" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4WmJUnaW-gMQN3SoK_--100" target="Q4WmJUnaW-gMQN3SoK_--104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--104" value="User can animate the graph and modify the coefficient via a slider" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--106" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="1035" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4WmJUnaW-gMQN3SoK_--112" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="945" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
